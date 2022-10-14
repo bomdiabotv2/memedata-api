@@ -1,4 +1,4 @@
-# memedataservice
+# memedataapi
 
 ## Steps to run locally
 1. `npm install` to install all dependencies
