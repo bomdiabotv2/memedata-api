@@ -5,7 +5,7 @@ import textMemeRouter from './routes/textMeme/textMeme';
 const app: Express = express();
 
 app.get('/', (req: Request, res: Response) => {
-  res.send('memedataapi');
+  res.send('memedata-api');
 });
 
 app.use('/text-meme', textMemeRouter);
